@@ -11,3 +11,4 @@ Regole pratiche per testare la documentazione
    testsetupA.rst
    testsetupB.rst
    testsetupC.rst
+   groups.rst
