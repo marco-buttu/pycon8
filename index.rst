@@ -12,3 +12,4 @@ Regole pratiche per testare la documentazione
    testsetupB.rst
    testsetupC.rst
    groups.rst
+   global_setup.rst
