@@ -7,3 +7,4 @@ Regole pratiche per testare la documentazione
    install.rst
    build.rst
    first_example.rst
+   options.rst
