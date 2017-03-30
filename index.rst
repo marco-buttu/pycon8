@@ -14,3 +14,4 @@ Regole pratiche per testare la documentazione
    groups.rst
    global_setup.rst
    test_specific_files.rst
+   literalinclude.rst
