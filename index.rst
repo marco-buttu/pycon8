@@ -15,3 +15,4 @@ Regole pratiche per testare la documentazione
    global_setup.rst
    test_specific_files.rst
    literalinclude.rst
+   pyversion.rst
