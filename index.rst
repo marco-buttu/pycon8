@@ -17,3 +17,5 @@ Regole pratiche per testare la documentazione
    literalinclude.rst
    pyversion.rst
    no_directive.rst
+
+.. include:: README.rst
