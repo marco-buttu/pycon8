@@ -6,12 +6,3 @@ Regole pratiche per testare la documentazione
 
    install.rst
    build.rst
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
