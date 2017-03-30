@@ -8,3 +8,6 @@ Regole pratiche per testare la documentazione
    build.rst
    first_example.rst
    options.rst
+   testsetupA.rst
+   testsetupB.rst
+   testsetupC.rst
