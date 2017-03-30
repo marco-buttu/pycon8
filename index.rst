@@ -16,3 +16,4 @@ Regole pratiche per testare la documentazione
    test_specific_files.rst
    literalinclude.rst
    pyversion.rst
+   no_directive.rst
