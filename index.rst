@@ -13,3 +13,4 @@ Regole pratiche per testare la documentazione
    testsetupC.rst
    groups.rst
    global_setup.rst
+   test_specific_files.rst
