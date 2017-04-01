@@ -8,7 +8,7 @@ struttura del progetto:
 
    $ cd myproject
    $ ls
-   _build  conf.py  index.rst  Makefile  _static
+   _build  conf.py  index.rst  Makefile  _static  _templates
 
 Non abbiamo ancora scritto della documentazione.
 L'unico file :file:`rst` è :file:`index.rst`,
