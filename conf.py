@@ -152,35 +152,3 @@ texinfo_documents = [
 
 html_sidebars = { '**': ['globaltoc.html', 'relations.html', 'sourcelink.html',
     'searchbox.html'], }
-
-
-# Global setup
-# ------------
-
-# When we execute the doctests under Sphinx,
-# the __main__ module is the sphinx-build script,
-# that is why we can not use the __main__
-# module as we do in the REPL.  For instance,
-# this example does not work:
-#
-#     >>> b = 33
-#     >>> import __main__
-#     >>> __main__.b
-#     33
-#
-# To solve the problem, we can set
-# `doctest_global_setup` in the following way.
-doctest_global_setup = """
-import sys
-import __main__
-# keep a reference to __main__
-__main = __main__
-class ProxyModule(object):
-    def __init__(self):
-        self.__dict__ = globals()
-sys.modules['__main__'] = ProxyModule()
-"""
-
-doctest_global_cleanup = """
-sys.modules['__main__'] = __main
-"""
