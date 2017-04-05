@@ -1,11 +1,13 @@
 ``download`` e ``literalinclude``
 =================================
 
-Supponiamo di avere il seguente modulo
-:download:`mymodule.py <include/mymodule.py>`:
+Supponiamo di avere il seguente modulo:
 
-.. literalinclude:: include/mymodule.py
-   :language: python
+.. code-block:: python
+
+   class Foo:
+       def foo(self):
+           print('pycon8')
 
 Ecco un esempio di codice che utilizza questo modulo:
 
