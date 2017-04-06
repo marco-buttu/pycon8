@@ -14,4 +14,4 @@ Ad esempio, possiamo fare questo:
    >>> math.sqrt
    33
 
-Ci troviamo sul branch ``05_setup_cleanup``.
+Ci troviamo sul branch ``05_pre_setup_cleanup``.

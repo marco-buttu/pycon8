@@ -9,4 +9,4 @@ Un piccolo conto:
    >>> math.sqrt(25)
    5.0
 
-Ci troviamo sul branch ``05_setup_cleanup``.
+Ci troviamo sul branch ``05_pre_setup_cleanup``.
