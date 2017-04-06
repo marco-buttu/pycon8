@@ -18,4 +18,4 @@ Ecco un esempio di codice che utilizza questo modulo:
    >>> obj.foo()
    pycon8
 
-Ci troviamo sul branch ``09_literalinclude``.
+Ci troviamo sul branch ``09_before_literalinclude``.
