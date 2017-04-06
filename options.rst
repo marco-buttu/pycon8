@@ -26,7 +26,7 @@ Questo ci consente di suddividere l'output su più linee:
     'variance']
 
 L'ellipsis è molto utile per nascondere parte
-poco utile del traceback, in modo da rendere l'esempio
+del traceback, in modo da rendere l'esempio
 più leggibile:
 
 .. doctest::
